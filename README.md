@@ -1,5 +1,5 @@
-# MEFR
-Maquina de Ensaios de Fadiga por Rotação
+﻿# MEFR
+Maquina de Ensaios de Fadiga
 
 Esse repositório contém os códigos do sistema de controle de uma maquina de ensaios propria para fadiga por rotação que está sendo desenvolvida nos laboratórios ISECENSA. 
 
